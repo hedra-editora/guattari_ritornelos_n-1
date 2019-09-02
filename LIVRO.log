@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  30 AUG 2019 17:19
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  2 SEP 2019 15:50
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.241 seconds
+luaotfload | main : initialization completed in 0.615 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1972,7 +1972,7 @@ sr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/sh
 are/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf></usr/share/t
 exmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf></usr/share/texmf-d
 ist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (96 pages, 263622 bytes).
+Output written on LIVRO.pdf (96 pages, 263616 bytes).
 
 PDF statistics: 351 PDF objects out of 1000 (max. 8388607)
  231 compressed objects within 3 object streams

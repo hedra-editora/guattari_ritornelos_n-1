@@ -19,7 +19,9 @@
 %\end{changemargin}
 \begin{flushright}
 \begin{vplace}[30]
-Epígrafe Antônin
+``(\ldots{}) Um homem toma posse de si mesmo por meio de lampejos, e muitas vezes quando toma posse de si não se encontra nem se alcança. (\ldots{})''\\
+A. Artaud,
+\textit{Carta para Jacques Rivière} em 25 de maio de 1924
 \end{vplace}
 \end{flushright}
 
@@ -126,7 +128,7 @@ R.~Fradique Coutinho, 1.139 (subsolo)\\
 \pagebreak
 
 %\vspace*{-80pt}
-\begin{changemargin}{-40pt}{-60pt}
+\begin{changemargin}{-75pt}{-60pt}
 {\Formular{
 
 \mbox{\textbf{Félix Guattari} \hspace{0.6cm}\textbf{Félix Guattari} \hspace{0.6cm}\textbf{Félix Guattari} \hspace{0.6cm}\textbf{Félix Guattari}}\vspace*{-3pt}
@@ -172,19 +174,27 @@ R.~Fradique Coutinho, 1.139 (subsolo)\\
 } % fim do AtBeginDocument
 
 % Finais -------------------------------------------------------
-%\AtEndDocument{%
+\AtEndDocument{%
   %\publicidade
 %
-%\pagebreak\ifodd\thepage\paginabranca\fi
-%
+\pagebreak\ifodd\thepage\paginabranca\fi
+
 %\ifdef{\imagemficha}{\IfFileExists{\imagemficha}{\includegraphics[width=.7\textwidth]{\imagemficha%}\par}}{}
 %
 %\mbox{}\vfill\small\thispagestyle{empty}
-%\begin{center}
+\begin{vplace}[30]
+\begin{figure}[!ht]
+\thispagestyle{empty}
+%\begin{minipage}{0,4\textwidth}
+\centering
+ \includegraphics[width=4cm]{./logo.pdf}
+%\caption{}
+%\end{minipage}
+\end{figure}
 %\begin{minipage}{.8\textwidth}
 %\centering\tiny\noindent{}Adverte-se aos curiosos que se imprimiu este livro \ifdef{\grafica}{na %gráfica \grafica}{em nossas oficinas}, 
 %em \today \ifdef{\papelmiolo}{em papel \papelmiolo}, em tipologia \tipopadrao{}, com diversos %sofwares livres, 
 %entre eles, Lua\LaTeX, git \& ruby. \ifdef{\RevisionInfo{}}{\par(v.\,\RevisionInfo)}{}\par \begin{%center}\normalsize\adforn{64}\end{center}
-%\end{minipage}
+\end{vplace}
 %\end{center}
-%}
+}

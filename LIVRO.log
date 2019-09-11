@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  5 SEP 2019 15:20
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  11 SEP 2019 15:16
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.229 seconds
+luaotfload | main : initialization completed in 0.239 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1925,18 +1925,103 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (47.9994pt too wide) in paragraph at lines 210--210
+Overfull \hbox (12.9994pt too wide) in paragraph at lines 210--210
 [] 
- []
-
-
-Overfull \hbox (24.26904pt too wide) in paragraph at lines 210--210
-[]  
  []
 
 [3] [4
 
-] (./PRETAS.tex) [5]
+] (./PRETAS.tex(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generi
+c/fonts/otl/formular-lightitalic.luc)
+\g__fontspec_family_Formular-LightItalic_int=\count367
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "Formular-LightItalic/BI" (it probably doesn't
+. exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "Formular-LightItalic/B" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "Formular-LightItalic/I" (it probably doesn't exist).
+.................................................
+luaotfload | aux : font no 55 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : no font with id 55
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Formular-LightItalic(0)' created for font
+. 'Formular-LightItalic' with options [SmallCapsFeatures={FakeSlant=0.6}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"Formular-LightItalic:mode=node;script=latn;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
+
+
+LaTeX Font Warning: Font shape `TU/Formular-LightItalic(0)/m/it' undefined
+(Font)              using `TU/Formular-LightItalic(0)/m/n' instead on input line
+ 3.
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Formular-LightItalic' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+LaTeX Font Warning: Font shape `TU/Formular-LightItalic(0)/m/sc' undefined
+(Font)              using `TU/Formular-LightItalic(0)/m/n' instead on input line
+ 3.
+
+\g__fontspec_family_FormularLight-Italic_int=\count368
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "FormularLight-Italic/BI" (it probably doesn't
+. exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "FormularLight-Italic/B" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "FormularLight-Italic/I" (it probably doesn't exist).
+.................................................
+luaotfload | aux : font no 55 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : no font with id 55
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'FormularLight-Italic(0)' created for font
+. 'FormularLight-Italic' with options [].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"FormularLight-Italic:mode=node;script=latn;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
+
+LaTeX Font Warning: Font shape `TU/FormularLight-Italic(0)/m/it' undefined
+(Font)              using `TU/FormularLight-Italic(0)/m/n' instead on input line
+ 3.
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `FormularLight-Italic' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+) [5]
 \openout2 = INPUTS.aux
  (./INPUTS.tex (./TEXTO.tex [6
 
@@ -1974,28 +2059,46 @@ Underfull \hbox (badness 1496) in paragraph at lines 1514--1537
 [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96]
 [97] [98] [99] [100])) [101] 
 AED: lastpage setting LastPage
-(./LIVRO.aux (./INPUTS.aux)))
+
+warning  (file ./logo.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.
+7', but at most version '1.5' allowed
+<./logo.pdf, id=326, pagebox=cropbox, 348.55219pt x 156.585pt>
+File: ./logo.pdf Graphic file (type pdf)
+<use ./logo.pdf>
+Package luatex.def Info: ./logo.pdf  used on input line 214. on input line 214.
+Package luatex.def Info: Requested size: 113.81102pt x 51.12845pt on input line 
+214.
+[102
+
+
+<./logo.pdf>] (./LIVRO.aux (./INPUTS.aux))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+)
 
 Here is how much of LuaTeX's memory you used:
- 24871 strings out of 494472
+ 25044 strings out of 494472
  100000,794899 words of node,token memory allocated
- 1245 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 5 glue, 1 penalty, 36 attribute, 194 glue_spec, 9 a
-ttribute_list, 3 shape, 4 write nodes
-   avail lists: 1:2,2:797,3:98,4:49,5:292,6:3371,7:1459,8:32,9:202,10:19,11:354
- 27801 multiletter control sequences out of 65536+600000
- 55 fonts using 11942295 bytes
- 50i,14n,70p,1369b,371s stack positions out of 5000i,500n,10000p,200000b,100000s
-</home/editorial/texmf/tex/fonts/Formular-Light.otf></home/editorial/texmf/tex/f
-onts/Formular-Regular.otf></home/editorial/texmf/tex/fonts/Formular-Bold.otf></u
-sr/share/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/sh
-are/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf></usr/share/t
-exmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf></usr/share/texmf-d
-ist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (101 pages, 268707 bytes).
+ 1219 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 5 glue, 1 penalty, 28 attribute, 194 glue_spec, 7 a
+ttribute_list, 3 shape, 2 write nodes
+   avail lists: 1:2,2:807,3:100,4:49,5:292,6:3371,7:1459,8:33,9:202,10:19,11:354
 
-PDF statistics: 369 PDF objects out of 1000 (max. 8388607)
- 244 compressed objects within 3 object streams
+ 27843 multiletter control sequences out of 65536+600000
+ 59 fonts using 12351079 bytes
+ 61i,14n,70p,1369b,413s stack positions out of 5000i,500n,10000p,200000b,100000s
+</home/editorial/texmf/tex/fonts/Formular-LightItalic.otf></home/editorial/texmf
+/tex/fonts/Formular-Light.otf></home/editorial/texmf/tex/fonts/Formular-Regular.
+otf></home/editorial/texmf/tex/fonts/Formular-Bold.otf></usr/share/texmf-dist/fo
+nts/opentype/public/libertine/LinLibertine_RB.otf></usr/share/texmf-dist/fonts/o
+pentype/public/libertine/LinLibertine_RI.otf></usr/share/texmf-dist/fonts/openty
+pe/public/libertine/LinLibertine_R.otf></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (102 pages, 598245 bytes).
+
+PDF statistics: 392 PDF objects out of 1000 (max. 8388607)
+ 255 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

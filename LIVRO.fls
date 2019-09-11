@@ -358,11 +358,15 @@ OUTPUT LIVRO.pdf
 INPUT ./PRETAS.tex
 INPUT ./PRETAS.tex
 INPUT ./PRETAS.tex
+INPUT /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/formular-lightitalic.luc
 OUTPUT INPUTS.aux
 INPUT ./INPUTS.tex
 INPUT ./INPUTS.tex
 INPUT ./TEXTO.tex
 INPUT ./TEXTO.tex
+INPUT ./logo.pdf
+INPUT ./logo.pdf
+INPUT ./logo.pdf
 INPUT ./LIVRO.aux
 INPUT ./INPUTS.aux
 INPUT ./INPUTS.aux

@@ -357,7 +357,6 @@ INPUT /usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmmono12-regular.luc
 INPUT /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmmono8-regular.luc
 OUTPUT LIVRO.pdf
-INPUT /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
 INPUT ./PRETAS.tex
 INPUT ./PRETAS.tex
 INPUT ./PRETAS.tex
@@ -365,6 +364,8 @@ INPUT /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/formular
 OUTPUT INPUTS.aux
 INPUT ./INPUTS.tex
 INPUT ./INPUTS.tex
+INPUT ./APRESENTACAO.tex
+INPUT ./APRESENTACAO.tex
 INPUT ./TEXTO.tex
 INPUT ./TEXTO.tex
 INPUT ./imgs/alfa1.pdf

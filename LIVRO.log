@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  26 SEP 2019 16:57
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  30 SEP 2019 17:49
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.255 seconds
+luaotfload | main : initialization completed in 0.228 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1937,8 +1937,11 @@ Overfull \hbox (12.9994pt too wide) in paragraph at lines 210--210
 [] 
  []
 
-[3] (./PRETAS.tex(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/gene
-ric/fonts/otl/formular-lightitalic.luc)
+[3](load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/
+lmmono10-regular.luc) [4
+
+] (./PRETAS.tex(load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generi
+c/fonts/otl/formular-lightitalic.luc)
 \g__fontspec_family_Formular-LightItalic_int=\count367
 .................................................
 . fontspec info: "no-font-shape"
@@ -1956,9 +1959,9 @@ ric/fonts/otl/formular-lightitalic.luc)
 . 
 . Could not resolve font "Formular-LightItalic/I" (it probably doesn't exist).
 .................................................
-luaotfload | aux : font no 57 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 58 (nil) does not define feature smcp for script latn
  with language dflt
-luaotfload | aux : no font with id 57
+luaotfload | aux : no font with id 58
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -2003,9 +2006,9 @@ LaTeX Font Warning: Font shape `TU/Formular-LightItalic(0)/m/sc' undefined
 . 
 . Could not resolve font "FormularLight-Italic/I" (it probably doesn't exist).
 .................................................
-luaotfload | aux : font no 57 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 58 (nil) does not define feature smcp for script latn
  with language dflt
-luaotfload | aux : no font with id 57
+luaotfload | aux : no font with id 58
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -2027,36 +2030,34 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FormularLight-Italic' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-) [4
-
-]
+) [5]
 \openout2 = INPUTS.aux
- (./INPUTS.tex (./APRESENTACAO.tex) (./TEXTO.tex [5
+ (./INPUTS.tex (./TEXTO.tex [6
 
-] [6] [7] [8] [9]
-[10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24]
-[25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39]
-[40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54]
-[55] [56] [57] [58] [59] [60]
-Underfull \hbox (badness 3746) in paragraph at lines 1099--1108
+] [7] [8] [9] [10] [11] [12] [13] [14]
+[15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29]
+[30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44]
+[45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59]
+[60]
+Underfull \hbox (badness 3746) in paragraph at lines 1105--1114
 []\TU/LinuxLibertineO(0)/m/n/12 Afago de ca-chorro, de perto, de muito
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 1099--1108
+Underfull \hbox (badness 1708) in paragraph at lines 1105--1114
 \TU/LinuxLibertineO(0)/m/n/12 perto. Pele lisa fe-mi-nina. In-de-ci-di-bi-li-da
 de.
  []
 
 [61] [62]
-Underfull \hbox (badness 2443) in paragraph at lines 1137--1145
+Underfull \hbox (badness 2443) in paragraph at lines 1143--1151
 []\TU/LinuxLibertineO(0)/m/n/12 As vi-e-las, os vi-o-li-nos lon-gos, os vi-o-le
 n-
  []
 
 [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77]
 [78] [79] [80] [81]
-Underfull \hbox (badness 1496) in paragraph at lines 1511--1534
+Underfull \hbox (badness 1496) in paragraph at lines 1517--1540
 \TU/LinuxLibertineO(0)/m/n/12 me-tade. Es-mal-ta-dos pe-los pra-dos. Cha-ma-
  []
 
@@ -2067,12 +2068,12 @@ on '1.7', but at most version '1.5' allowed
 <./imgs/alfa1.pdf, id=327, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/alfa1.pdf Graphic file (type pdf)
 <use ./imgs/alfa1.pdf>
-Package luatex.def Info: ./imgs/alfa1.pdf  used on input line 1915. on input lin
-e 1915.
+Package luatex.def Info: ./imgs/alfa1.pdf  used on input line 1921. on input lin
+e 1921.
 Package luatex.def Info: Requested size: 312.9803pt x 512.16376pt on input line 
-1915.
+1921.
 
-Overfull \hbox (59.19284pt too wide) in paragraph at lines 1914--1917
+Overfull \hbox (59.19284pt too wide) in paragraph at lines 1920--1923
  |  [] 
  []
 
@@ -2086,12 +2087,12 @@ on '1.7', but at most version '1.5' allowed
 <./imgs/alfa2.pdf, id=343, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/alfa2.pdf Graphic file (type pdf)
 <use ./imgs/alfa2.pdf>
-Package luatex.def Info: ./imgs/alfa2.pdf  used on input line 1936. on input lin
-e 1936.
+Package luatex.def Info: ./imgs/alfa2.pdf  used on input line 1942. on input lin
+e 1942.
 Package luatex.def Info: Requested size: 312.9803pt x 512.16376pt on input line 
-1936.
+1942.
 
-Overfull \hbox (59.19284pt too wide) in paragraph at lines 1935--1938
+Overfull \hbox (59.19284pt too wide) in paragraph at lines 1941--1944
  |  [] 
  []
 
@@ -2105,12 +2106,12 @@ on '1.7', but at most version '1.5' allowed
 <./imgs/alfa3.pdf, id=359, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/alfa3.pdf Graphic file (type pdf)
 <use ./imgs/alfa3.pdf>
-Package luatex.def Info: ./imgs/alfa3.pdf  used on input line 1957. on input lin
-e 1957.
+Package luatex.def Info: ./imgs/alfa3.pdf  used on input line 1963. on input lin
+e 1963.
 Package luatex.def Info: Requested size: 312.9803pt x 512.16376pt on input line 
-1957.
+1963.
 
-Overfull \hbox (59.19284pt too wide) in paragraph at lines 1956--1959
+Overfull \hbox (59.19284pt too wide) in paragraph at lines 1962--1965
  |  [] 
  []
 
@@ -2124,12 +2125,12 @@ on '1.7', but at most version '1.5' allowed
 <./imgs/alfa4.pdf, id=375, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/alfa4.pdf Graphic file (type pdf)
 <use ./imgs/alfa4.pdf>
-Package luatex.def Info: ./imgs/alfa4.pdf  used on input line 1978. on input lin
-e 1978.
+Package luatex.def Info: ./imgs/alfa4.pdf  used on input line 1984. on input lin
+e 1984.
 Package luatex.def Info: Requested size: 312.9803pt x 512.16376pt on input line 
-1978.
+1984.
 
-Overfull \hbox (59.19284pt too wide) in paragraph at lines 1977--1980
+Overfull \hbox (59.19284pt too wide) in paragraph at lines 1983--1986
  |  [] 
  []
 
@@ -2143,12 +2144,12 @@ n '1.7', but at most version '1.5' allowed
 <./imgs/img1.pdf, id=394, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img1.pdf Graphic file (type pdf)
 <use ./imgs/img1.pdf>
-Package luatex.def Info: ./imgs/img1.pdf  used on input line 1999. on input line
- 1999.
+Package luatex.def Info: ./imgs/img1.pdf  used on input line 2005. on input line
+ 2005.
 Package luatex.def Info: Requested size: 327.20668pt x 535.44392pt on input line
- 1999.
+ 2005.
 
-Overfull \hbox (43.54419pt too wide) in paragraph at lines 1998--2001
+Overfull \hbox (43.54419pt too wide) in paragraph at lines 2004--2007
  |  [] 
  []
 
@@ -2162,12 +2163,12 @@ n '1.7', but at most version '1.5' allowed
 <./imgs/img2.pdf, id=410, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img2.pdf Graphic file (type pdf)
 <use ./imgs/img2.pdf>
-Package luatex.def Info: ./imgs/img2.pdf  used on input line 2020. on input line
- 2020.
+Package luatex.def Info: ./imgs/img2.pdf  used on input line 2026. on input line
+ 2026.
 Package luatex.def Info: Requested size: 327.20668pt x 535.44392pt on input line
- 2020.
+ 2026.
 
-Overfull \hbox (43.54419pt too wide) in paragraph at lines 2019--2022
+Overfull \hbox (43.54419pt too wide) in paragraph at lines 2025--2028
  |  [] 
  []
 
@@ -2181,12 +2182,12 @@ n '1.7', but at most version '1.5' allowed
 <./imgs/img3.pdf, id=426, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img3.pdf Graphic file (type pdf)
 <use ./imgs/img3.pdf>
-Package luatex.def Info: ./imgs/img3.pdf  used on input line 2041. on input line
- 2041.
+Package luatex.def Info: ./imgs/img3.pdf  used on input line 2047. on input line
+ 2047.
 Package luatex.def Info: Requested size: 327.20668pt x 535.44392pt on input line
- 2041.
+ 2047.
 
-Overfull \hbox (43.54419pt too wide) in paragraph at lines 2040--2043
+Overfull \hbox (43.54419pt too wide) in paragraph at lines 2046--2049
  |  [] 
  []
 
@@ -2200,12 +2201,12 @@ n '1.7', but at most version '1.5' allowed
 <./imgs/img4.pdf, id=443, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img4.pdf Graphic file (type pdf)
 <use ./imgs/img4.pdf>
-Package luatex.def Info: ./imgs/img4.pdf  used on input line 2062. on input line
- 2062.
+Package luatex.def Info: ./imgs/img4.pdf  used on input line 2068. on input line
+ 2068.
 Package luatex.def Info: Requested size: 327.20668pt x 535.44392pt on input line
- 2062.
+ 2068.
 
-Overfull \hbox (42.12146pt too wide) in paragraph at lines 2061--2064
+Overfull \hbox (42.12146pt too wide) in paragraph at lines 2067--2070
  |  [] 
  []
 
@@ -2219,12 +2220,12 @@ n '1.7', but at most version '1.5' allowed
 <./imgs/img5.pdf, id=459, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img5.pdf Graphic file (type pdf)
 <use ./imgs/img5.pdf>
-Package luatex.def Info: ./imgs/img5.pdf  used on input line 2083. on input line
- 2083.
+Package luatex.def Info: ./imgs/img5.pdf  used on input line 2089. on input line
+ 2089.
 Package luatex.def Info: Requested size: 327.20668pt x 535.44392pt on input line
- 2083.
+ 2089.
 
-Overfull \hbox (42.12146pt too wide) in paragraph at lines 2082--2085
+Overfull \hbox (42.12146pt too wide) in paragraph at lines 2088--2091
  |  [] 
  []
 
@@ -2238,12 +2239,12 @@ n '1.7', but at most version '1.5' allowed
 <./imgs/img6.pdf, id=475, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img6.pdf Graphic file (type pdf)
 <use ./imgs/img6.pdf>
-Package luatex.def Info: ./imgs/img6.pdf  used on input line 2104. on input line
- 2104.
+Package luatex.def Info: ./imgs/img6.pdf  used on input line 2110. on input line
+ 2110.
 Package luatex.def Info: Requested size: 327.20668pt x 535.44392pt on input line
- 2104.
+ 2110.
 
-Overfull \hbox (43.54419pt too wide) in paragraph at lines 2103--2106
+Overfull \hbox (43.54419pt too wide) in paragraph at lines 2109--2112
  |  [] 
  []
 
@@ -2257,12 +2258,12 @@ n '1.7', but at most version '1.5' allowed
 <./imgs/img7.pdf, id=491, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img7.pdf Graphic file (type pdf)
 <use ./imgs/img7.pdf>
-Package luatex.def Info: ./imgs/img7.pdf  used on input line 2125. on input line
- 2125.
+Package luatex.def Info: ./imgs/img7.pdf  used on input line 2131. on input line
+ 2131.
 Package luatex.def Info: Requested size: 327.20668pt x 535.44392pt on input line
- 2125.
+ 2131.
 
-Overfull \hbox (43.54419pt too wide) in paragraph at lines 2124--2127
+Overfull \hbox (43.54419pt too wide) in paragraph at lines 2130--2133
  |  [] 
  []
 
@@ -2276,12 +2277,12 @@ n '1.7', but at most version '1.5' allowed
 <./imgs/img8.pdf, id=508, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img8.pdf Graphic file (type pdf)
 <use ./imgs/img8.pdf>
-Package luatex.def Info: ./imgs/img8.pdf  used on input line 2146. on input line
- 2146.
+Package luatex.def Info: ./imgs/img8.pdf  used on input line 2152. on input line
+ 2152.
 Package luatex.def Info: Requested size: 327.20668pt x 535.44392pt on input line
- 2146.
+ 2152.
 
-Overfull \hbox (43.54419pt too wide) in paragraph at lines 2145--2148
+Overfull \hbox (43.54419pt too wide) in paragraph at lines 2151--2154
  |  [] 
  []
 
@@ -2295,12 +2296,12 @@ n '1.7', but at most version '1.5' allowed
 <./imgs/img9.pdf, id=525, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img9.pdf Graphic file (type pdf)
 <use ./imgs/img9.pdf>
-Package luatex.def Info: ./imgs/img9.pdf  used on input line 2167. on input line
- 2167.
+Package luatex.def Info: ./imgs/img9.pdf  used on input line 2173. on input line
+ 2173.
 Package luatex.def Info: Requested size: 327.20668pt x 535.44392pt on input line
- 2167.
+ 2173.
 
-Overfull \hbox (43.54419pt too wide) in paragraph at lines 2166--2169
+Overfull \hbox (43.54419pt too wide) in paragraph at lines 2172--2175
  |  [] 
  []
 
@@ -2314,12 +2315,12 @@ on '1.7', but at most version '1.5' allowed
 <./imgs/img10.pdf, id=541, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img10.pdf Graphic file (type pdf)
 <use ./imgs/img10.pdf>
-Package luatex.def Info: ./imgs/img10.pdf  used on input line 2188. on input lin
-e 2188.
+Package luatex.def Info: ./imgs/img10.pdf  used on input line 2194. on input lin
+e 2194.
 Package luatex.def Info: Requested size: 327.20668pt x 535.44392pt on input line
- 2188.
+ 2194.
 
-Overfull \hbox (43.54419pt too wide) in paragraph at lines 2187--2190
+Overfull \hbox (43.54419pt too wide) in paragraph at lines 2193--2196
  |  [] 
  []
 
@@ -2333,12 +2334,12 @@ on '1.7', but at most version '1.5' allowed
 <./imgs/img11.pdf, id=557, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img11.pdf Graphic file (type pdf)
 <use ./imgs/img11.pdf>
-Package luatex.def Info: ./imgs/img11.pdf  used on input line 2209. on input lin
-e 2209.
+Package luatex.def Info: ./imgs/img11.pdf  used on input line 2215. on input lin
+e 2215.
 Package luatex.def Info: Requested size: 327.20668pt x 535.44392pt on input line
- 2209.
+ 2215.
 
-Overfull \hbox (43.54419pt too wide) in paragraph at lines 2208--2211
+Overfull \hbox (43.54419pt too wide) in paragraph at lines 2214--2217
  |  [] 
  []
 
@@ -2352,12 +2353,12 @@ on '1.7', but at most version '1.5' allowed
 <./imgs/img12.pdf, id=581, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img12.pdf Graphic file (type pdf)
 <use ./imgs/img12.pdf>
-Package luatex.def Info: ./imgs/img12.pdf  used on input line 2230. on input lin
-e 2230.
+Package luatex.def Info: ./imgs/img12.pdf  used on input line 2236. on input lin
+e 2236.
 Package luatex.def Info: Requested size: 327.20668pt x 535.44392pt on input line
- 2230.
+ 2236.
 
-Overfull \hbox (43.54419pt too wide) in paragraph at lines 2229--2232
+Overfull \hbox (43.54419pt too wide) in paragraph at lines 2235--2238
  |  [] 
  []
 
@@ -2371,12 +2372,12 @@ on '1.7', but at most version '1.5' allowed
 <./imgs/img13.pdf, id=597, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img13.pdf Graphic file (type pdf)
 <use ./imgs/img13.pdf>
-Package luatex.def Info: ./imgs/img13.pdf  used on input line 2251. on input lin
-e 2251.
+Package luatex.def Info: ./imgs/img13.pdf  used on input line 2257. on input lin
+e 2257.
 Package luatex.def Info: Requested size: 327.20668pt x 535.44392pt on input line
- 2251.
+ 2257.
 
-Overfull \hbox (43.54419pt too wide) in paragraph at lines 2250--2253
+Overfull \hbox (43.54419pt too wide) in paragraph at lines 2256--2259
  |  [] 
  []
 
@@ -2390,12 +2391,12 @@ on '1.7', but at most version '1.5' allowed
 <./imgs/img14.pdf, id=614, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img14.pdf Graphic file (type pdf)
 <use ./imgs/img14.pdf>
-Package luatex.def Info: ./imgs/img14.pdf  used on input line 2272. on input lin
-e 2272.
+Package luatex.def Info: ./imgs/img14.pdf  used on input line 2278. on input lin
+e 2278.
 Package luatex.def Info: Requested size: 327.20668pt x 535.44392pt on input line
- 2272.
+ 2278.
 
-Overfull \hbox (43.54419pt too wide) in paragraph at lines 2271--2274
+Overfull \hbox (43.54419pt too wide) in paragraph at lines 2277--2280
  |  [] 
  []
 
@@ -2422,15 +2423,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 25246 strings out of 494472
+ 25257 strings out of 494472
  100000,794899 words of node,token memory allocated
  1229 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 5 glue, 1 penalty, 28 attribute, 196 glue_spec, 7 a
 ttribute_list, 3 shape, 2 write nodes
-   avail lists: 1:2,2:897,3:101,4:49,5:314,6:3405,7:1459,8:39,9:215,10:19,11:354
+   avail lists: 1:2,2:922,3:101,4:49,5:314,6:3405,7:1459,8:39,9:215,10:19,11:354
 
- 27924 multiletter control sequences out of 65536+600000
- 63 fonts using 13129423 bytes
+ 27930 multiletter control sequences out of 65536+600000
+ 65 fonts using 13355263 bytes
  61i,12n,70p,1369b,414s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/editorial/texmf/tex/fonts/Formular-LightItalic.otf></home/editorial/texmf
 /tex/fonts/Formular-Light.otf></home/editorial/texmf/tex/fonts/Formular-Regular.
@@ -2440,7 +2441,7 @@ pentype/public/libertine/LinLibertine_RI.otf></usr/share/texmf-dist/fonts/openty
 pe/public/libertine/LinLibertine_R.otf></usr/share/texmf-dist/fonts/opentype/pub
 lic/lm/lmmono8-regular.otf></usr/share/texmf-dist/fonts/type1/public/amsfonts/la
 txfont/lcirclew.pfb>
-Output written on LIVRO.pdf (134 pages, 553845 bytes).
+Output written on LIVRO.pdf (134 pages, 553265 bytes).
 
 PDF statistics: 688 PDF objects out of 1000 (max. 8388607)
  438 compressed objects within 5 object streams

@@ -424,6 +424,9 @@ INPUT ./imgs/img14.pdf
 INPUT ./logos.jpg
 INPUT ./logos.jpg
 INPUT ./logos.jpg
+INPUT ./ficha.pdf
+INPUT ./ficha.pdf
+INPUT ./ficha.pdf
 INPUT ./LIVRO.aux
 INPUT ./INPUTS.aux
 INPUT ./INPUTS.aux

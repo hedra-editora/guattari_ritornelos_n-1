@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  15 OCT 2019 14:01
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  28 OCT 2019 16:26
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.387 seconds
+luaotfload | main : initialization completed in 0.236 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1959,9 +1959,9 @@ c/fonts/otl/formular-lightitalic.luc)
 . 
 . Could not resolve font "Formular-LightItalic/I" (it probably doesn't exist).
 .................................................
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 59 (nil) does not define feature smcp for script latn
  with language dflt
-luaotfload | aux : no font with id 58
+luaotfload | aux : no font with id 59
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -2006,9 +2006,9 @@ LaTeX Font Warning: Font shape `TU/Formular-LightItalic(0)/m/sc' undefined
 . 
 . Could not resolve font "FormularLight-Italic/I" (it probably doesn't exist).
 .................................................
-luaotfload | aux : font no 58 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 59 (nil) does not define feature smcp for script latn
  with language dflt
-luaotfload | aux : no font with id 58
+luaotfload | aux : no font with id 59
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -2065,7 +2065,7 @@ Underfull \hbox (badness 1496) in paragraph at lines 1517--1540
 [97] [98] [99] [100] [101]
 warning  (file ./imgs/alfa1.pdf) (pdf inclusion): PDF inclusion: found PDF versi
 on '1.7', but at most version '1.5' allowed
-<./imgs/alfa1.pdf, id=327, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/alfa1.pdf, id=328, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/alfa1.pdf Graphic file (type pdf)
 <use ./imgs/alfa1.pdf>
 Package luatex.def Info: ./imgs/alfa1.pdf  used on input line 1921. on input lin
@@ -2084,7 +2084,7 @@ Overfull \vbox (52.1582pt too high) has occurred while \output is active []
 [102<./imgs/alfa1.pdf>]
 warning  (file ./imgs/alfa2.pdf) (pdf inclusion): PDF inclusion: found PDF versi
 on '1.7', but at most version '1.5' allowed
-<./imgs/alfa2.pdf, id=343, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/alfa2.pdf, id=344, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/alfa2.pdf Graphic file (type pdf)
 <use ./imgs/alfa2.pdf>
 Package luatex.def Info: ./imgs/alfa2.pdf  used on input line 1942. on input lin
@@ -2103,7 +2103,7 @@ Overfull \vbox (52.1582pt too high) has occurred while \output is active []
 [103<./imgs/alfa2.pdf>]
 warning  (file ./imgs/alfa3.pdf) (pdf inclusion): PDF inclusion: found PDF versi
 on '1.7', but at most version '1.5' allowed
-<./imgs/alfa3.pdf, id=359, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/alfa3.pdf, id=360, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/alfa3.pdf Graphic file (type pdf)
 <use ./imgs/alfa3.pdf>
 Package luatex.def Info: ./imgs/alfa3.pdf  used on input line 1963. on input lin
@@ -2122,7 +2122,7 @@ Overfull \vbox (52.1582pt too high) has occurred while \output is active []
 [104<./imgs/alfa3.pdf>]
 warning  (file ./imgs/alfa4.pdf) (pdf inclusion): PDF inclusion: found PDF versi
 on '1.7', but at most version '1.5' allowed
-<./imgs/alfa4.pdf, id=375, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/alfa4.pdf, id=376, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/alfa4.pdf Graphic file (type pdf)
 <use ./imgs/alfa4.pdf>
 Package luatex.def Info: ./imgs/alfa4.pdf  used on input line 1984. on input lin
@@ -2141,7 +2141,7 @@ Overfull \vbox (46.1582pt too high) has occurred while \output is active []
 [105<./imgs/alfa4.pdf>] [106]
 warning  (file ./imgs/img1.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.7', but at most version '1.5' allowed
-<./imgs/img1.pdf, id=394, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img1.pdf, id=395, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img1.pdf Graphic file (type pdf)
 <use ./imgs/img1.pdf>
 Package luatex.def Info: ./imgs/img1.pdf  used on input line 2005. on input line
@@ -2160,7 +2160,7 @@ Overfull \vbox (70.29192pt too high) has occurred while \output is active []
 [107<./imgs/img1.pdf>] [108]
 warning  (file ./imgs/img2.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.7', but at most version '1.5' allowed
-<./imgs/img2.pdf, id=410, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img2.pdf, id=411, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img2.pdf Graphic file (type pdf)
 <use ./imgs/img2.pdf>
 Package luatex.def Info: ./imgs/img2.pdf  used on input line 2026. on input line
@@ -2179,7 +2179,7 @@ Overfull \vbox (70.29192pt too high) has occurred while \output is active []
 [109<./imgs/img2.pdf>] [110]
 warning  (file ./imgs/img3.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.7', but at most version '1.5' allowed
-<./imgs/img3.pdf, id=426, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img3.pdf, id=427, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img3.pdf Graphic file (type pdf)
 <use ./imgs/img3.pdf>
 Package luatex.def Info: ./imgs/img3.pdf  used on input line 2047. on input line
@@ -2198,7 +2198,7 @@ Overfull \vbox (70.29192pt too high) has occurred while \output is active []
 [111<./imgs/img3.pdf>] [112]
 warning  (file ./imgs/img4.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.7', but at most version '1.5' allowed
-<./imgs/img4.pdf, id=443, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img4.pdf, id=444, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img4.pdf Graphic file (type pdf)
 <use ./imgs/img4.pdf>
 Package luatex.def Info: ./imgs/img4.pdf  used on input line 2068. on input line
@@ -2217,7 +2217,7 @@ Overfull \vbox (70.29192pt too high) has occurred while \output is active []
 [113<./imgs/img4.pdf>] [114]
 warning  (file ./imgs/img5.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.7', but at most version '1.5' allowed
-<./imgs/img5.pdf, id=459, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img5.pdf, id=460, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img5.pdf Graphic file (type pdf)
 <use ./imgs/img5.pdf>
 Package luatex.def Info: ./imgs/img5.pdf  used on input line 2089. on input line
@@ -2236,7 +2236,7 @@ Overfull \vbox (70.29192pt too high) has occurred while \output is active []
 [115<./imgs/img5.pdf>] [116]
 warning  (file ./imgs/img6.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.7', but at most version '1.5' allowed
-<./imgs/img6.pdf, id=475, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img6.pdf, id=476, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img6.pdf Graphic file (type pdf)
 <use ./imgs/img6.pdf>
 Package luatex.def Info: ./imgs/img6.pdf  used on input line 2110. on input line
@@ -2255,7 +2255,7 @@ Overfull \vbox (70.29192pt too high) has occurred while \output is active []
 [117<./imgs/img6.pdf>] [118]
 warning  (file ./imgs/img7.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.7', but at most version '1.5' allowed
-<./imgs/img7.pdf, id=491, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img7.pdf, id=492, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img7.pdf Graphic file (type pdf)
 <use ./imgs/img7.pdf>
 Package luatex.def Info: ./imgs/img7.pdf  used on input line 2131. on input line
@@ -2274,7 +2274,7 @@ Overfull \vbox (70.29192pt too high) has occurred while \output is active []
 [119<./imgs/img7.pdf>] [120]
 warning  (file ./imgs/img8.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.7', but at most version '1.5' allowed
-<./imgs/img8.pdf, id=508, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img8.pdf, id=509, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img8.pdf Graphic file (type pdf)
 <use ./imgs/img8.pdf>
 Package luatex.def Info: ./imgs/img8.pdf  used on input line 2152. on input line
@@ -2293,7 +2293,7 @@ Overfull \vbox (70.29192pt too high) has occurred while \output is active []
 [121<./imgs/img8.pdf>] [122]
 warning  (file ./imgs/img9.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.7', but at most version '1.5' allowed
-<./imgs/img9.pdf, id=525, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img9.pdf, id=526, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img9.pdf Graphic file (type pdf)
 <use ./imgs/img9.pdf>
 Package luatex.def Info: ./imgs/img9.pdf  used on input line 2173. on input line
@@ -2312,7 +2312,7 @@ Overfull \vbox (70.29192pt too high) has occurred while \output is active []
 [123<./imgs/img9.pdf>] [124]
 warning  (file ./imgs/img10.pdf) (pdf inclusion): PDF inclusion: found PDF versi
 on '1.7', but at most version '1.5' allowed
-<./imgs/img10.pdf, id=541, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img10.pdf, id=542, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img10.pdf Graphic file (type pdf)
 <use ./imgs/img10.pdf>
 Package luatex.def Info: ./imgs/img10.pdf  used on input line 2194. on input lin
@@ -2331,7 +2331,7 @@ Overfull \vbox (70.29192pt too high) has occurred while \output is active []
 [125<./imgs/img10.pdf>] [126]
 warning  (file ./imgs/img11.pdf) (pdf inclusion): PDF inclusion: found PDF versi
 on '1.7', but at most version '1.5' allowed
-<./imgs/img11.pdf, id=557, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img11.pdf, id=558, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img11.pdf Graphic file (type pdf)
 <use ./imgs/img11.pdf>
 Package luatex.def Info: ./imgs/img11.pdf  used on input line 2215. on input lin
@@ -2350,7 +2350,7 @@ Overfull \vbox (70.29192pt too high) has occurred while \output is active []
 [127<./imgs/img11.pdf>] [128]
 warning  (file ./imgs/img12.pdf) (pdf inclusion): PDF inclusion: found PDF versi
 on '1.7', but at most version '1.5' allowed
-<./imgs/img12.pdf, id=581, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img12.pdf, id=582, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img12.pdf Graphic file (type pdf)
 <use ./imgs/img12.pdf>
 Package luatex.def Info: ./imgs/img12.pdf  used on input line 2236. on input lin
@@ -2369,7 +2369,7 @@ Overfull \vbox (70.29192pt too high) has occurred while \output is active []
 [129<./imgs/img12.pdf>] [130]
 warning  (file ./imgs/img13.pdf) (pdf inclusion): PDF inclusion: found PDF versi
 on '1.7', but at most version '1.5' allowed
-<./imgs/img13.pdf, id=597, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img13.pdf, id=598, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img13.pdf Graphic file (type pdf)
 <use ./imgs/img13.pdf>
 Package luatex.def Info: ./imgs/img13.pdf  used on input line 2257. on input lin
@@ -2388,7 +2388,7 @@ Overfull \vbox (70.29192pt too high) has occurred while \output is active []
 [131<./imgs/img13.pdf>] [132]
 warning  (file ./imgs/img14.pdf) (pdf inclusion): PDF inclusion: found PDF versi
 on '1.7', but at most version '1.5' allowed
-<./imgs/img14.pdf, id=614, pagebox=cropbox, 312.9803pt x 512.14938pt>
+<./imgs/img14.pdf, id=615, pagebox=cropbox, 312.9803pt x 512.14938pt>
 File: ./imgs/img14.pdf Graphic file (type pdf)
 <use ./imgs/img14.pdf>
 Package luatex.def Info: ./imgs/img14.pdf  used on input line 2278. on input lin
@@ -2406,7 +2406,7 @@ Overfull \vbox (70.29192pt too high) has occurred while \output is active []
 
 [133<./imgs/img14.pdf>] 
 AED: lastpage setting LastPage
-<./logos.jpg, id=627, pagebox=cropbox, 347.04657pt x 106.14656pt>
+<./logos.jpg, id=628, pagebox=cropbox, 347.04657pt x 106.14656pt>
 File: ./logos.jpg Graphic file (type jpg)
 <use ./logos.jpg>
 Package luatex.def Info: ./logos.jpg  used on input line 214. on input line 214.
@@ -2416,7 +2416,7 @@ Package luatex.def Info: Requested size: 95.59854pt x 29.23979pt on input line 2
 
 warning  (file ./ficha.pdf) (pdf inclusion): PDF inclusion: found PDF version '1
 .7', but at most version '1.5' allowed
-<./ficha.pdf, id=628, pagebox=cropbox, 369.63094pt x 244.66406pt>
+<./ficha.pdf, id=629, pagebox=cropbox, 369.63094pt x 244.66406pt>
 File: ./ficha.pdf Graphic file (type pdf)
 <use ./ficha.pdf>
 Package luatex.def Info: ./ficha.pdf  used on input line 214. on input line 214.
@@ -2438,28 +2438,29 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 25267 strings out of 494472
+ 25266 strings out of 494472
  100000,794899 words of node,token memory allocated
  1219 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 5 glue, 1 penalty, 28 attribute, 194 glue_spec, 7 a
 ttribute_list, 3 shape, 2 write nodes
-   avail lists: 1:2,2:912,3:101,4:49,5:316,6:3404,7:1459,8:39,9:215,10:19,11:354
+   avail lists: 1:2,2:887,3:101,4:49,5:316,6:3404,7:1459,8:39,9:215,10:19,11:354
 
- 27934 multiletter control sequences out of 65536+600000
- 65 fonts using 13355291 bytes
+ 27930 multiletter control sequences out of 65536+600000
+ 66 fonts using 13629831 bytes
  61i,12n,70p,1369b,414s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/editorial/texmf/tex/fonts/Formular-LightItalic.otf></home/editorial/texmf
 /tex/fonts/Formular-Light.otf></home/editorial/texmf/tex/fonts/Formular-Regular.
 otf></home/editorial/texmf/tex/fonts/Formular-Bold.otf></usr/share/texmf-dist/fo
-nts/opentype/public/libertine/LinLibertine_RB.otf></usr/share/texmf-dist/fonts/o
-pentype/public/libertine/LinLibertine_RI.otf></usr/share/texmf-dist/fonts/openty
-pe/public/libertine/LinLibertine_R.otf></usr/share/texmf-dist/fonts/opentype/pub
-lic/lm/lmmono8-regular.otf></usr/share/texmf-dist/fonts/type1/public/amsfonts/la
-txfont/lcirclew.pfb>
-Output written on LIVRO.pdf (134 pages, 619662 bytes).
+nts/opentype/public/libertine/LinLibertine_RBI.otf></usr/share/texmf-dist/fonts/
+opentype/public/libertine/LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opent
+ype/public/libertine/LinLibertine_RI.otf></usr/share/texmf-dist/fonts/opentype/p
+ublic/libertine/LinLibertine_R.otf></usr/share/texmf-dist/fonts/opentype/public/
+lm/lmmono8-regular.otf></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfo
+nt/lcirclew.pfb>
+Output written on LIVRO.pdf (134 pages, 622564 bytes).
 
-PDF statistics: 708 PDF objects out of 1000 (max. 8388607)
- 455 compressed objects within 5 object streams
+PDF statistics: 715 PDF objects out of 1000 (max. 8388607)
+ 459 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

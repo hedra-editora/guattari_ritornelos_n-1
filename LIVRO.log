@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  28 OCT 2019 16:26
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  1 NOV 2019 14:06
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.236 seconds
+luaotfload | main : initialization completed in 0.242 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2035,10 +2035,15 @@ Package microtype Info: Loading generic protrusion settings for font family
  (./INPUTS.tex (./TEXTO.tex [6
 
 ] [7] [8] [9] [10] [11] [12] [13] [14]
-[15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29]
-[30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44]
-[45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59]
-[60]
+[15] [16] [17] [18] [19] [20]
+Underfull \hbox (badness 1097) in paragraph at lines 285--294
+[]\TU/LinuxLibertineO(0)/m/n/12 As fra-ses de-va-neiam. A lín-gua es-tre-mece.
+
+ []
+
+[21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35]
+[36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50]
+[51] [52] [53] [54] [55] [56] [57] [58] [59] [60]
 Underfull \hbox (badness 3746) in paragraph at lines 1105--1114
 []\TU/LinuxLibertineO(0)/m/n/12 Afago de ca-chorro, de perto, de muito
  []
@@ -2438,15 +2443,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 25266 strings out of 494472
+ 25242 strings out of 494472
  100000,794899 words of node,token memory allocated
  1219 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 5 glue, 1 penalty, 28 attribute, 194 glue_spec, 7 a
 ttribute_list, 3 shape, 2 write nodes
-   avail lists: 1:2,2:887,3:101,4:49,5:316,6:3404,7:1459,8:39,9:215,10:19,11:354
+   avail lists: 1:2,2:887,3:101,4:54,5:320,6:3405,7:1451,8:39,9:215,10:19,11:354
 
  27930 multiletter control sequences out of 65536+600000
- 66 fonts using 13629831 bytes
+ 66 fonts using 13625963 bytes
  61i,12n,70p,1369b,414s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/editorial/texmf/tex/fonts/Formular-LightItalic.otf></home/editorial/texmf
 /tex/fonts/Formular-Light.otf></home/editorial/texmf/tex/fonts/Formular-Regular.
@@ -2457,10 +2462,10 @@ ype/public/libertine/LinLibertine_RI.otf></usr/share/texmf-dist/fonts/opentype/p
 ublic/libertine/LinLibertine_R.otf></usr/share/texmf-dist/fonts/opentype/public/
 lm/lmmono8-regular.otf></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfo
 nt/lcirclew.pfb>
-Output written on LIVRO.pdf (134 pages, 622564 bytes).
+Output written on LIVRO.pdf (134 pages, 629228 bytes).
 
-PDF statistics: 715 PDF objects out of 1000 (max. 8388607)
- 459 compressed objects within 5 object streams
+PDF statistics: 720 PDF objects out of 1000 (max. 8388607)
+ 462 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

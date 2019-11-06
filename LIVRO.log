@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  1 NOV 2019 14:06
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  6 NOV 2019 17:00
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.242 seconds
+luaotfload | main : initialization completed in 0.289 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2448,7 +2448,7 @@ Here is how much of LuaTeX's memory you used:
  1219 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 5 glue, 1 penalty, 28 attribute, 194 glue_spec, 7 a
 ttribute_list, 3 shape, 2 write nodes
-   avail lists: 1:2,2:887,3:101,4:54,5:320,6:3405,7:1451,8:39,9:215,10:19,11:354
+   avail lists: 1:2,2:902,3:101,4:54,5:320,6:3405,7:1451,8:39,9:215,10:19,11:354
 
  27930 multiletter control sequences out of 65536+600000
  66 fonts using 13625963 bytes
@@ -2462,7 +2462,7 @@ ype/public/libertine/LinLibertine_RI.otf></usr/share/texmf-dist/fonts/opentype/p
 ublic/libertine/LinLibertine_R.otf></usr/share/texmf-dist/fonts/opentype/public/
 lm/lmmono8-regular.otf></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfo
 nt/lcirclew.pfb>
-Output written on LIVRO.pdf (134 pages, 629228 bytes).
+Output written on LIVRO.pdf (134 pages, 629597 bytes).
 
 PDF statistics: 720 PDF objects out of 1000 (max. 8388607)
  462 compressed objects within 5 object streams

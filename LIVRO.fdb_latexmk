@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1572627971 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1572627977
+["lualatex"] 1573070455 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1573070463
   "/etc/texmf/tex/generic/config/language.dat" 1501615481 6367 641735e2f987308ac3125ca745743b9d ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/cobra-arisca-regular.luc" 1566406441 11988 6a18becc14be5d4ab2d4b49d6cc0feac ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/fake-receipt.luc" 1566405928 36935 118416beeeb8811ce895c8275724ccb5 ""
@@ -203,15 +203,15 @@
   "/usr/share/texmf-dist/tex/luatex/luatexbase/luatexbase.sty" 1501615463 10170 b1a2248f43cab899e3fe36f676176865 ""
   "/usr/share/texmf-dist/tex/plain/ifetex/ifetex.tex" 1501615464 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1509478218 1350509 fd6a6094b87503d3862a692ec974558b ""
-  "INPUTS.aux" 1572627976 1792 97714ae755a9d592a87bf2a65d88e0ef ""
+  "INPUTS.aux" 1573070462 1792 97714ae755a9d592a87bf2a65d88e0ef ""
   "INPUTS.tex" 1569875558 67 dead44d682788c72f3250be3847eeba3 ""
-  "LIVRO.aux" 1572627976 453 a1c37e60041a4dbf7332ce0628eaad09 ""
+  "LIVRO.aux" 1573070462 453 a1c37e60041a4dbf7332ce0628eaad09 ""
   "LIVRO.tex" 1569527847 5751 3877ea45afe413df3efc32cc0460801a ""
   "PRETAS.tex" 1572626456 900 f24b55c820023103457ab11557aea9e5 ""
-  "TEXTO.tex" 1572627290 126168 d7c799d30d657408da816ead6deb9a4d ""
+  "TEXTO.tex" 1572635561 126167 a86e750bfc9259109f4aa9e330009101 ""
   "ficha.pdf" 1572627965 74728 48e5c7a7cc4525f92332164225fa849b ""
   "fichatecnica.sty" 1572290037 2389 54e9a5a8d0e7e87b9b251d00b0ac310c ""
-  "fronthedra.tex" 1572626591 6749 e48557d53d404d27930823bd50a6edbb ""
+  "fronthedra.tex" 1573070452 6784 093c9cc250e2f47a4c0178236b6a11c5 ""
   "frontlayout.sty" 1567184838 1731 5f60f1c14f6d545f21dbeb617a33dfa4 ""
   "gitrevisioninfo.sty" 1567184838 35 0af197c0aa797da669c01f7c129d5d63 ""
   "hedraextra.sty" 1567184838 6390 65a9b8588c7612c4e2512564697fa8c1 ""
@@ -237,7 +237,7 @@
   "logos.jpg" 1569518814 9046 2da6c504d7c26d7d81fac1ba72b41870 ""
   "tipografia.sty" 1567184838 9969 4482ee9ca783c256e73b20cb46d97e8c ""
   (generated)
-  "LIVRO.log"
-  "LIVRO.aux"
   "LIVRO.pdf"
+  "LIVRO.aux"
+  "LIVRO.log"
   "INPUTS.aux"
